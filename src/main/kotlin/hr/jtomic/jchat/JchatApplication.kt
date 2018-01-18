@@ -1,4 +1,4 @@
-package hr.jtomic.jchat.jchat
+package hr.jtomic.jchat
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
